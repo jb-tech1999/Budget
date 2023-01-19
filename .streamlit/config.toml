@@ -1,0 +1,11 @@
+[theme]
+
+primaryColor = "#ECB365"
+
+backgroundColor = "#04293A"
+
+secondaryBackgroundColor = "#064663"
+
+textColor = "#fafafa"
+
+font = "monospace"
